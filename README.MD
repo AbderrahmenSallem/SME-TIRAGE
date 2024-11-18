@@ -1,13 +1,16 @@
-PS : TO USE ANY LINK HOLD CTRL AND RIGHT CLICK THE LINK
-Before you run the app
-1) Make sure to install Python :
-    https://www.python.org/ftp/python/3.13.0/python-3.13.0-amd64.exe
+# Instructions for Running the App
 
-2) Open a new terminal in windows or CMD and type these commands one by one :
-    pip install flask
-    pip install qrcode
-    pip install pillow
-PS : TO APPLY CHANGES IF USING VS CODE RESTART IT, IF USING WINDOWS CMD RESTART IT AS WELL
+### Before You Run the App:
+
+1. **Install Python**:  
+   [Download Python 3.13.0](https://www.python.org/ftp/python/3.13.0/python-3.13.0-amd64.exe)
+
+2. **Install Required Packages**:  
+   Open a new terminal in Windows or CMD and type these commands one by one:
+   ```bash
+   pip install flask
+   pip install qrcode
+   pip install pillow
 
 3) install Visual Code :
     add python Interpreter if not added automatically by the app
