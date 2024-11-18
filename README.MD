@@ -15,8 +15,11 @@
 3) install Visual Code :
     add python Interpreter if not added automatically by the app
 
-4) RUN MAIN.PY USING THE COMMAND BELOW IN THE VISUAL CODE TERMINAL :
-    flask --app main run
+4) RUN MAIN.PY USING THE COMMAND BELOW IN THE VISUAL CODE TERMINAL:
+
+```bash
+flask --app main run
+
 
 5) The app will run on this locally on this link :
     http://127.0.0.1:5000/get_qr_code
